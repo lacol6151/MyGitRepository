@@ -3,4 +3,4 @@
 3. Django
 4. Data Analysis
 5. Machine Learning
-6. CNN
+6. YOLO
